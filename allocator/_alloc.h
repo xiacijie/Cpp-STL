@@ -1,5 +1,5 @@
-#ifndef __JJALLOC__
-#define __JJALLOC__
+#ifndef __ALLOC__
+#define __ALLOC__
 
 #include <new>
 #include <cstddef>
@@ -7,7 +7,7 @@
 #include <climits>
 #include <iostream>
 
-namespace JJ 
+namespace __ 
 {
 
 template<class T>
